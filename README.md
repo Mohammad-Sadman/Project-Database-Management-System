@@ -47,7 +47,7 @@ The platform includes:
 - JSON Middleware – Easy request/response handling  
 
 ## 📸 Screenshots
-
+https://github.com/Mohammad-Sadman/Project-Database-Management-System/tree/main/screenshots
 1. Homepage with area selection and service cards  
 2. Ambulance listing with availability details  
 3. Blood donor & blood bank results  
